@@ -1,6 +1,5 @@
 .env
 __pycache__/
 *.pyc
-.venv/
 venv/
-.streamlit/secrets.toml
+backend/study_planner.db
