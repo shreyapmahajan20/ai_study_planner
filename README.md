@@ -1,6 +1,6 @@
 # 💡 AI Study Planner
 
-A Streamlit app that generates a personalized, day-by-day study schedule using Google's Gemini API — built to be genuinely usable, not just a demo.
+A FastAPI + React app that generates a personalized, day-by-day study schedule using Google's Gemini API — built to be genuinely usable, not just a demo.
 
 ## Features
 - Add multiple subjects with difficulty and priority levels
